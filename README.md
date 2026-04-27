@@ -1,7 +1,7 @@
 # Portfolio
 # Data Science Portfolio - Teferi Hagos
 
-## ** About Me**
+## **About Me**
 I'm a Data Scientist specializing in **Machine Learning, Predictive Analytics, and Unsupervised Learning**. This portfolio showcases my projects, including **classification, tree-based, and clustering models**.
 
 **Contact:** teferihagos3@gmail.com 
@@ -10,7 +10,7 @@ I'm a Data Scientist specializing in **Machine Learning, Predictive Analytics, a
 
 ---
 
-# ** Portfolio Projects**
+# **Portfolio Projects**
 
 ## **1️⃣ Obesity Risk Prediction (Supervised Learning - Classification)**
  **Objective:**  
