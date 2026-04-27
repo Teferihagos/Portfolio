@@ -171,6 +171,9 @@ My goal is to work as a Healthcare Data Scientist while advancing into AI-driven
 **CONTACT**
 
 Location: Washington, DC
+
 Email: [teferihagos3@gmail.com](mailto:teferihagos3@gmail.com)
+
 LinkedIn: https://www.linkedin.com/in/teferihagos/
+
 GitHub: https://github.com/Teferihagos
