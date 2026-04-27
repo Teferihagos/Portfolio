@@ -1,6 +1,6 @@
 
 
-ABOUT ME
+**ABOUT ME**
 
 I am a Healthcare Data Scientist and PhD candidate in Data Science, specializing in Machine Learning and Artificial Intelligence for healthcare applications.
 
@@ -18,9 +18,9 @@ Current focus areas:
 
 ---
 
-PORTFOLIO PROJECTS
+**PORTFOLIO PROJECTS**
 
-1. DIABETES PREDICTION (REPRODUCIBLE MACHINE LEARNING PIPELINE)
+**1. DIABETES PREDICTION (REPRODUCIBLE MACHINE LEARNING PIPELINE)**
 
 Objective:
 Build a reproducible machine learning pipeline to predict diabetes outcomes using healthcare data.
@@ -45,7 +45,7 @@ https://github.com/Teferihagos/diabetes-prediction-reproducible-research
 
 ---
 
-2. CLINICAL NOTE SPECIALTY CLASSIFICATION (HEALTHCARE NLP)
+**2. CLINICAL NOTE SPECIALTY CLASSIFICATION (HEALTHCARE NLP)**
 
 Objective:
 Classify clinical notes into medical specialties using NLP techniques.
@@ -69,7 +69,7 @@ https://github.com/Teferihagos/clinical-note-specialty-classification-nlp
 
 ---
 
-3. CUSTOMER CHURN PREDICTION (END-TO-END MACHINE LEARNING)
+**3. CUSTOMER CHURN PREDICTION (END-TO-END MACHINE LEARNING)**
 
 Objective:
 Predict customer churn using structured data and machine learning models.
@@ -87,17 +87,17 @@ Key Work:
 Results:
 
 * Achieved approximately 81% accuracy using Logistic Regression
-* Identified key drivers of churn such as contract type and payment method
-* Demonstrated full machine learning pipeline from data to insights
+* Identified key drivers of churn, such as contract type and payment method
+* Demonstrated a full machine learning pipeline from data to insights
 
 Project Link:
 https://github.com/Teferihagos/customer-churn-prediction-ml
 
 ---
 
-UPCOMING PROJECTS
+**UPCOMING PROJECTS**
 
-Healthcare Deep Learning Project
+**Healthcare Deep Learning Project**
 
 * Neural networks for disease prediction (diabetes or heart disease)
 
@@ -105,19 +105,19 @@ Healthcare Computer Vision Project
 
 * Medical image classification (e.g., pneumonia detection from X-rays)
 
-Healthcare RAG System
+**Healthcare RAG System**
 
 * Retrieval-based AI system for clinical knowledge support
 * Combines search + generation for accurate responses
 
-Agentic AI for Healthcare
+**Agentic AI for Healthcare**
 
 * Multi-step AI systems for clinical workflows
 * Example: patient triage assistant
 
 ---
 
-SKILLS
+**SKILLS**
 
 Machine Learning:
 
@@ -125,12 +125,12 @@ Machine Learning:
 * Model evaluation (Accuracy, Precision, Recall, F1-score, ROC-AUC)
 * Feature engineering and model optimization
 
-Programming:
+**Programming:**
 
 * Python (Pandas, NumPy, Scikit-learn)
 * Data visualization (Matplotlib, Seaborn)
 
-AI and Advanced Topics:
+**AI and Advanced Topics:**
 
 * Natural Language Processing (TF-IDF, text classification)
 * Deep Learning (in progress)
@@ -138,7 +138,7 @@ AI and Advanced Topics:
 * Retrieval-Augmented Generation (RAG)
 * Agentic AI systems
 
-Domain Expertise:
+**Domain Expertise:**
 
 * Healthcare analytics
 * Health informatics
@@ -146,7 +146,7 @@ Domain Expertise:
 
 ---
 
-WHAT MAKES ME UNIQUE
+**WHAT MAKES ME UNIQUE**
 
 * Combines PhD-level research with practical machine learning implementation
 * Strong healthcare domain knowledge
@@ -155,7 +155,7 @@ WHAT MAKES ME UNIQUE
 
 ---
 
-SUMMARY
+**SUMMARY**
 
 This portfolio demonstrates my ability to:
 
@@ -168,7 +168,7 @@ My goal is to work as a Healthcare Data Scientist while advancing into AI-driven
 
 ---
 
-CONTACT
+**CONTACT**
 
 Location: Washington, DC
 Email: [teferihagos3@gmail.com](mailto:teferihagos3@gmail.com)
